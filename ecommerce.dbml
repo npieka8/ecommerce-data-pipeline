@@ -1,0 +1,9 @@
+
+Table order_items
+{
+  order_item_id integer [pk]
+  order_id integer [ref: > orders.order_id]
+  product_id integer [ref: > products.product_id]
+  quantity integer
+  price numeric(10,2)
+}
