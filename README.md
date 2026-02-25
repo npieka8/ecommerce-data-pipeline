@@ -27,3 +27,6 @@ It allows analysis of:
 
 ## Project status
 Work in progress.
+
+## Other
+Sample data is generated for demonstration purposes and does not contain real personal information.
